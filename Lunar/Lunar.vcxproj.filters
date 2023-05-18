@@ -24,6 +24,9 @@
     <ClInclude Include="src\Lunar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Lunar\EntryPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Lunar\Application.cpp">

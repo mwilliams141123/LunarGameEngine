@@ -12,5 +12,7 @@ namespace Lunar
 
 		void Run();
 	};
+
+	Application* CreateApplication();
 }
 

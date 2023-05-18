@@ -14,6 +14,7 @@
     <ClInclude Include="src\Lunar\Application.h" />
     <ClInclude Include="src\Lunar\Core.h" />
     <ClInclude Include="src\Lunar.h" />
+    <ClInclude Include="src\Lunar\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Lunar\Application.cpp" />
